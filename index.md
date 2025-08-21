@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Miki Cutie Documentation
 layout: home
 ---
 
